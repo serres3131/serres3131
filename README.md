@@ -1,4 +1,4 @@
-### Olá me chamo Emerson Serres 😎
+### Olá, me chamo Emerson Serres 😎
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson_serres/)
